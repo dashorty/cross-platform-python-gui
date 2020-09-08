@@ -1,6 +1,6 @@
 name: build
 
-# execute this workflow automatically, but only when pushing to master
+# execute this workflow automatically, but only when pushing to master 
 on:
   push:
     branches: [ master ]
